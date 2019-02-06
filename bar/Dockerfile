@@ -1,5 +1,5 @@
 FROM busybox
 
-RUN echo wine > log
+RUN echo "more wine" > log
 
 CMD cat
